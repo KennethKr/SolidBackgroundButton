@@ -5,5 +5,5 @@ Usage
 
 Set properties below to chosen background and highlight color.
 
-        private UIColor backgroundColorHighlight;
-        private UIColor backgroundColorNormal;
+        BackgroundColorHighlight;
+        BackgroundColorNormal;
